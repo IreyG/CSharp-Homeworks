@@ -1,0 +1,5 @@
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P05. PrintYourName\bin\Debug\P05.PrintYourName.exe.config
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P05. PrintYourName\bin\Debug\P05.PrintYourName.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P05. PrintYourName\bin\Debug\P05.PrintYourName.pdb
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P05. PrintYourName\obj\Debug\P05.PrintYourName.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P05. PrintYourName\obj\Debug\P05.PrintYourName.pdb

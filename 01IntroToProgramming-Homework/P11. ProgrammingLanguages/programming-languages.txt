@@ -1,0 +1,23 @@
+C++
+
+Though C language was performing extremely well, it lacked object orientation. In order to address this issue, C++ language was developed in 1983 which is often considered object oriented version of C language. C++ is one of the most widely used languages of the world with many amazing applications developed through it. Google Chrome, Mozilla Firefox, Winamp, and the complete suite of Adobe Software were developed using C++. 
+
+Java
+
+Java was developed by James Gosling, in 1990 at Sun Microsystems. Java further adds to the capabilities of C++ language. It is often said that Java owes a lot to C and C++ in terms of features and capabilities. The special thing about Java is that this is the first purely object oriented programming language. Java was developed on the principle of WORA i.e. “Write Once Run Anywhere”. This feature adds to the portability of Java. You just need to compile Java Source code once and then on any machine where JVM (Java Virtual Machine is installed), you can run that code irrespective of the underlying operating system and hardware.
+
+C#
+
+C# belongs to the Microsoft’s family of programming language and was developed in 2000 to be the part of the first ever release of Microsoft’s prestigious .NET framework. C# is very similar to Java in terms of capabilities. It has been said that C# combines the robustness of C++ with the advanced features of Java. Therefore, if you are good at Java, it is extremely easy to switch to C# and vice-versa.
+
+JavaScript
+
+Server side languages are ideal for developing complex web applications but performing every task on server puts lots of load on a server. For this reason, developers often delegate some part of the functionality to client side and for this purpose JavaScript is used. JavaScript is a client side programming language that runs inside a client browser and process commands on client computer rather than server which results in decreased load on server and increased application’s execution speed. JavaScript has been designed by Netscape and there is hardly any website that doesn’t make use of JavaScript.
+
+Python
+
+Python is another high-level programming language and is often considered on the easiest language to learn, owing to its simplicity, readability and straight forward syntax. Python was developed by Guido Van Rossum in 1991. Python wasn’t used that widely in the past; however, the language has seen great surge in popularity in the recent years owing to Google’s investment in the language in the past 10 years or so. Currently, some highly famous and robust sites are operating in python including pinterest.com, instagram.com, and rdio.com.
+
+Ruby
+
+Similar to Python, Ruby is also a simple and readable programming language mainly focused on developing web-based applications. Designed by Yukihiro Matsumoto in 1995, Ruby powers Ruby on Rails, a web development framework on which numerous renowned websites including Github, Scribd, Yammer, Shopify, and Groupon have been developed. 

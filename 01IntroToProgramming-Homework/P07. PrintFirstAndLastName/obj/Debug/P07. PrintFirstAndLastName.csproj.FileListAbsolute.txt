@@ -1,0 +1,5 @@
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P07. PrintFirstAndLastName\bin\Debug\P07.PrintFirstAndLastName.exe.config
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P07. PrintFirstAndLastName\bin\Debug\P07.PrintFirstAndLastName.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P07. PrintFirstAndLastName\bin\Debug\P07.PrintFirstAndLastName.pdb
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P07. PrintFirstAndLastName\obj\Debug\P07.PrintFirstAndLastName.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P07. PrintFirstAndLastName\obj\Debug\P07.PrintFirstAndLastName.pdb

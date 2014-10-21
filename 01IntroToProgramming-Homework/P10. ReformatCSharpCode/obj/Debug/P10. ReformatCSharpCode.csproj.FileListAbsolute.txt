@@ -1,0 +1,5 @@
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P10. ReformatCSharpCode\bin\Debug\P10.ReformatCSharpCode.exe.config
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P10. ReformatCSharpCode\bin\Debug\P10.ReformatCSharpCode.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P10. ReformatCSharpCode\bin\Debug\P10.ReformatCSharpCode.pdb
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P10. ReformatCSharpCode\obj\Debug\P10.ReformatCSharpCode.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P10. ReformatCSharpCode\obj\Debug\P10.ReformatCSharpCode.pdb

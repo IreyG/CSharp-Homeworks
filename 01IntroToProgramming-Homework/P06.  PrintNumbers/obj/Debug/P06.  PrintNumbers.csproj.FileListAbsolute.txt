@@ -1,0 +1,5 @@
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P06.  PrintNumbers\bin\Debug\P06.PrintNumbers.exe.config
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P06.  PrintNumbers\bin\Debug\P06.PrintNumbers.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P06.  PrintNumbers\bin\Debug\P06.PrintNumbers.pdb
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P06.  PrintNumbers\obj\Debug\P06.PrintNumbers.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P06.  PrintNumbers\obj\Debug\P06.PrintNumbers.pdb

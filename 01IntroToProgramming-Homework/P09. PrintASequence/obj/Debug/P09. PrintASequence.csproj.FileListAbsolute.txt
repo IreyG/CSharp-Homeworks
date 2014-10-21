@@ -1,0 +1,5 @@
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P09. PrintASequence\bin\Debug\P09.PrintASequence.exe.config
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P09. PrintASequence\bin\Debug\P09.PrintASequence.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P09. PrintASequence\bin\Debug\P09.PrintASequence.pdb
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P09. PrintASequence\obj\Debug\P09.PrintASequence.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P09. PrintASequence\obj\Debug\P09.PrintASequence.pdb

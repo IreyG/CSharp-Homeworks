@@ -1,0 +1,5 @@
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P14. CurrentDateAndTime\bin\Debug\P14.CurrentDateAndTime.exe.config
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P14. CurrentDateAndTime\bin\Debug\P14.CurrentDateAndTime.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P14. CurrentDateAndTime\bin\Debug\P14.CurrentDateAndTime.pdb
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P14. CurrentDateAndTime\obj\Debug\P14.CurrentDateAndTime.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P14. CurrentDateAndTime\obj\Debug\P14.CurrentDateAndTime.pdb

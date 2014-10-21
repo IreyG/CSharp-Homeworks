@@ -1,0 +1,5 @@
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P15. AgeAfterTenYears\bin\Debug\P15.AgeAfterTenYears.exe.config
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P15. AgeAfterTenYears\bin\Debug\P15.AgeAfterTenYears.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P15. AgeAfterTenYears\bin\Debug\P15.AgeAfterTenYears.pdb
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P15. AgeAfterTenYears\obj\Debug\P15.AgeAfterTenYears.exe
+c:\users\irena\documents\visual studio 2013\Projects\01IntroToProgramming-Homework\P15. AgeAfterTenYears\obj\Debug\P15.AgeAfterTenYears.pdb
