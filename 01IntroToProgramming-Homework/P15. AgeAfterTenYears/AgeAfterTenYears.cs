@@ -4,13 +4,19 @@ class AgeAfterTenYears
 {
     static void Main()
     {
-        Console.WriteLine("Please enter your birthday");
-        DateTime birthDay = DateTime.Parse(Console.ReadLine());
-        int years = DateTime.Now.Year - birthDay.Year;
-        Console.WriteLine("You are {0} years old.", years);
-        int ageInTen = years + 10;
-        Console.WriteLine("In 10 years, you are going to be {0} years old.", ageInTen);
-
-
+        DateTime birthday = DateTime.Parse(Console.ReadLine());
+        DateTime today = DateTime.Now;
+        int age = today.Year - birthday.Year;
+        if (today.Month-birthday.Month<0)
+        {
+            age--;
+        }
+        if (today.Month==birthday.Month && today.Day-birthday.Day<0)
+        {
+            age--;
+        }
+        int ageInTen = age + 10;
+        Console.WriteLine("You are {0} years old.",age);
+        Console.WriteLine("In 10 years from today you will be {0} years old.",ageInTen);
     }
 }
