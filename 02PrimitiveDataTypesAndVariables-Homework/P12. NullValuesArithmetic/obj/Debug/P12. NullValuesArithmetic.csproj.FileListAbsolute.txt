@@ -1,0 +1,1 @@
+c:\users\irena\documents\visual studio 2013\Projects\P01. DeclareVariables\P12. NullValuesArithmetic\bin\Debug\P12.NullValuesArithmetic.exe.config
